@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashmi Rawat</h1>
-<div align="center">
-  <img src="https://github.com/rashmirawat1/rashmirawat1/blob/main/banner.png" alt="DevOps Banner">
-</div>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=rashmirawat1&txt=I%20am%20a%20DevOps%20Engineer"></p>
+
 <h3 align="center">A passionate and aspiring DevOps Engineer</h3>
 
 <p align="center">
