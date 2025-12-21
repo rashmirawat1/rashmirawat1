@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/rashmirawat1/rashmirawat1/blob/main/gw1.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmirawat1&label=Profile%20views&color=0e75b6&style=flat" alt="rashmirawat1" /> </p>
 
 - 🔭 I’m currently working on **100 Days DevOps Challenge**
