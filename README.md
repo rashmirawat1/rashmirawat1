@@ -15,17 +15,17 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/rashmirawat1/rashmirawat1/blob/main/gw1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmirawat1&label=Profile%20views&color=0e75b6&style=flat" alt="rashmirawat1" /> </p>
 
-- 🔭 I’m currently working on **100 Days DevOps Challenge**
+- 🔭 I’m currently working on - **100 Days DevOps Challenge**
 
-- 🌱 I’m currently learning **DevSecOps and Cloud DevOps**
+- 🌱 I’m currently learning - **DevSecOps and Cloud DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rashmirawat1](https://github.com/rashmirawat1)
+- 👨‍💻 All of my projects are available at - [Github](https://github.com/rashmirawat1)
 
-- 💬 Ask me about **DevOps practices**
+- 💬 Ask me about - **DevOps practices**
 
-- 📫 How to reach me **rashmirawat2510@gmail.com**
+- 📫 How to reach me - **rashmirawat2510@gmail.com**
 
-- 📄 Know about my experiences [kkk](kkk)
+- 📄 Know about my experiences - [kkk](kkk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
