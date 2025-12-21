@@ -59,13 +59,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmirawat1&show_icons=true&locale=en" alt="rashmirawat1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmirawat1&" alt="rashmirawat1" /></p>
-
 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kkk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kkk" /></a></p><br><br>
-
 
 <!--
 **rashmirawat1/rashmirawat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
