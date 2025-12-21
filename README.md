@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rashmi Rawat</h1>
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=rashmirawat1&txt=I%20am%20a%20DevOps%20Engineer"></p>
 
 <h3 align="center">A passionate and aspiring DevOps Engineer</h3>
 
